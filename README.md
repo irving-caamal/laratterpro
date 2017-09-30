@@ -1,2 +1,2 @@
 # laratterpro
-platizi
+platizi, new project.
